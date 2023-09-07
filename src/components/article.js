@@ -38,12 +38,12 @@ export default function Article() {
                             <h1 className="text-[#0E2368] poppins sm:leading-[27px] font-bold sm:text-[20px] text-[16px] leading-[35px] sm:mb-[14px]">
                                 {el}
                             </h1>
-                            <p className="hidden sm:block sm:text-[15px] text-[12px] leading-[22px] mb-[26px] sm:mb-[30.5px] text-[#444957] font-normal sm:leading-[27px]">
+                            <p className="hidden text-left sm:block sm:text-[15px] text-[12px] leading-[22px] mb-[26px] sm:mb-[30.5px] text-[#444957] font-normal sm:leading-[27px]">
                                 PLorem Ipsum is simply dummy text of the
                                 printing and typesetting industry. Lorem Ipsum
                                 has been the industry's standard...
                             </p>
-                            <p className="block sm:hidden openSans sm:text-[15px] text-[12px] leading-[22px] mb-[26px] sm:mb-[30.5px] text-[#444957] font-normal sm:leading-[27px]">
+                            <p className="block text-left sm:hidden openSans sm:text-[15px] text-[12px] leading-[22px] mb-[26px] sm:mb-[30.5px] text-[#444957] font-normal sm:leading-[27px]">
                                 PLorem Ipsum is simply dummy text of the
                                 printing and typesetting industry. Lorem Ipsum
                                 has been the industry's standard dummy text ever
@@ -76,12 +76,12 @@ export default function Article() {
                             <h1 className="text-[#0E2368] poppins sm:leading-[27px] font-bold sm:text-[20px] text-[16px] leading-[35px] sm:mb-[14px]">
                                 {el}
                             </h1>
-                            <p className="hidden sm:block sm:text-[15px] text-[12px] leading-[22px] mb-[26px] sm:mb-[30.5px] text-[#444957] font-normal sm:leading-[27px]">
+                            <p className="hidden text-left sm:block sm:text-[15px] text-[12px] leading-[22px] mb-[26px] sm:mb-[30.5px] text-[#444957] font-normal sm:leading-[27px]">
                                 PLorem Ipsum is simply dummy text of the
                                 printing and typesetting industry. Lorem Ipsum
                                 has been the industry's standard...
                             </p>
-                            <p className="block sm:hidden openSans sm:text-[15px] text-[12px] leading-[22px] mb-[26px] sm:mb-[30.5px] text-[#444957] font-normal sm:leading-[27px]">
+                            <p className="block text-left sm:hidden openSans sm:text-[15px] text-[12px] leading-[22px] mb-[26px] sm:mb-[30.5px] text-[#444957] font-normal sm:leading-[27px]">
                                 PLorem Ipsum is simply dummy text of the
                                 printing and typesetting industry. Lorem Ipsum
                                 has been the industry's standard dummy text ever
