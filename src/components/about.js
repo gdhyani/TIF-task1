@@ -1,7 +1,8 @@
 import Image from "next/image";
+import "../app/globals.css"
 export default function About() {
     return (
-        <section className="flex flex-row py-[130px] gap-[200px] sm:py-0 bg-[#f7f8fb] px-[50px] sm:px-[205px]">
+        <section className="flex flex-row py-[130px] gap-[200px] sm:py-0 about px-[50px] sm:px-[205px]">
             <div className="hidden sm:block ">
                 <Image
                     className=""

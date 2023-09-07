@@ -1,4 +1,5 @@
 import About from "@/components/about";
+import Article from "@/components/article";
 import Footer from "@/components/footer";
 import Image from "next/image";
 
@@ -15,7 +16,7 @@ export default function Home() {
                         height={100}
                         alt="truck.svg"
                     />
-                    <button className="z-20 text-white h-[31px] w-[87.891px] sm:w-auto sm:py-3  flex text-[11px] sm:text-[16px] sm:px-[26px] rounded-3xl border-2 justify-center items-center absolute top-[32px] right-[12px] font-semibold">
+                    <button className="z-20 text-white h-[31px] w-[87.891px] sm:w-auto sm:py-4  flex text-[11px] sm:text-[16px] sm:px-[26px] rounded-full border-2 justify-center items-center absolute top-[32px] right-[12px] font-semibold">
                         Get In Touch
                     </button>
                 </div>
@@ -48,6 +49,7 @@ export default function Home() {
             </section>
 
             <About />
+            <Article/>
             <Footer />
         </main>
     );
